@@ -1,0 +1,10 @@
+Package: CMSgps
+Type: Package
+Title: Classfying CMS based on genepairs
+Version: 0.1.0
+Author: Hailong Zheng
+Maintainer: Hailong Zheng <zhenghailong_hmu@163.com>
+Description: Classfying Consensus Molecular Subtypes (CMS) of Colorectal Cancer based on genepairs.
+License: No license.
+Encoding: UTF-8
+LazyData: true
