@@ -6,7 +6,7 @@ To install the CMSgps, install from github using devtools
 ```
 install.packages(randomForest)
 library(devtools)
-install_github("Hailong-Zheng/CMSgps")
+install_github("Zhao-Wenyuan/CMSgps")
 ```
 Or you can download the .ZIP file and and unzip it.
 ```
